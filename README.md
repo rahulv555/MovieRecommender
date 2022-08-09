@@ -3,7 +3,7 @@
 This is a movie recommending application, using TMDB data on the movies and their user ratings, that has been scraped using BeautifulSoup4 and requests libraries, as well as some data from the internet
 The recommendation is done based on the Content-based and Collaborative-filter algorithms
 
-#Technologies used 
+#Technologies used <br/>
 PyQt5, QTdesigner for the GUI <br/>
 pandas, numpy <br/>
 sciKit learn - for the recommendation algorithms <br/>
